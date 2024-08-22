@@ -38,6 +38,11 @@ body {
   margin-bottom: 20px;
 }
 
+.profile-picture img {
+  width: 100%;
+  border-radius: 50%;
+}
+
 .info {
   margin-bottom: 20px;
 }
